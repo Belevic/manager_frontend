@@ -1,0 +1,91 @@
+#transfer-list{
+    margin-left: 50px; 
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#midfielders-transfer{
+    border: 3px double #333; /* Рамка вокруг таблицы */ 
+    border-collapse: separate;
+    border-spacing: 7px 11px;
+}
+
+#midfielders-transfer th{
+    text-align: center;
+}
+
+#midfielders-transfer td{
+    text-align: center;
+}
+
+#goalkeapers-transfer{
+    border: 3px double #333; /* Рамка вокруг таблицы */ 
+    border-collapse: separate;
+    border-spacing: 7px 11px;
+}
+
+#goalkeapers-transfer th{
+    text-align: center;
+}
+
+#goalkeapers-transfer td{
+    text-align: center;
+}
+
+#defenders-transfer{
+    border: 3px double #333; /* Рамка вокруг таблицы */ 
+    border-collapse: separate;
+    border-spacing: 7px 11px;
+}
+
+#defenders-transfer th{
+    text-align: center;
+}
+
+#defenders-transfer td{
+    text-align: center;
+}
+
+#forwards-transfer{
+    margin-top: 10px;
+    border: 3px double #333; /* Рамка вокруг таблицы */ 
+    border-collapse: separate;
+    border-spacing: 7px 11px;
+}
+
+#forwards-transfer th{
+    text-align: center;
+}
+
+#forwards-transfer td{
+    text-align: center;
+}
+
+#contract-button{
+    border: none;
+    width:100%;
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#player-face {
+    display: inline-block;
+    padding-left:20px;
+    transition: .3s;
+    font-weight:bold;
+    text-decoration:none;
+  }
+  #player-face:hover {
+    -webkit-transform: scale(5.2);
+    transform: scale(5.2);
+  }
+
+  #transfer-search{
+      margin-left:10px;
+    background-color: rgba(2, 41, 82, .65);
+  }
+
+  .body-content-container{ font-size: 30px;  color: rgb(119, 114, 104);
+    margin: 0;
+    margin-left:40px;
+    width: 100%
+  }
+  

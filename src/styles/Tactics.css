@@ -1,0 +1,44 @@
+#game-style{
+    background-color: rgba(2, 41, 82, .65);
+    height: 340px;
+    margin-left: 40px;
+    width: auto;
+}
+
+#line-tactics{
+    background-color: rgba(2, 41, 82, .65);
+    height: 340px;
+    margin-left: 10px;
+    width: auto;
+}
+
+#line-type{
+    background-color: rgba(2, 41, 82, .65);
+    height: 340px;
+    margin-left: 10px;
+    width: auto;
+}
+
+#zonal-game-style{
+    background-color: rgba(2, 41, 82, .65);
+    height: auto;
+    margin-left: 40px;
+    width: auto;
+}
+
+#offside-trap{
+    background-color: rgba(2, 41, 82, .65);
+    height: auto;
+    margin-left: 20px;
+    width: auto;
+}
+
+#back-button{
+    border: none;
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#forward-button{
+    border:none;
+    background-color: rgba(2, 41, 82, .65);
+}

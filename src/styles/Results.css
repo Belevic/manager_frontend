@@ -1,0 +1,50 @@
+#results-table th{
+    text-align: center;
+}
+
+#results-table td{
+    text-align: center;
+}
+
+#results{
+    margin-left: 40px;
+    height: auto;
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#movebar{
+    text-align: center;
+    margin-left: 10px;
+    background-color: rgba(2, 41, 82, .65);
+    height: 200px;
+}
+
+#results-table{
+    margin-top: 10px;
+}
+
+#forward-button{
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#back-button{
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#matchday-round{
+    margin-top: 3px;
+    width:30px;
+    background-color: goldenrod;
+    border-radius: 50px;
+}
+
+#round-row{
+    margin-left: 20px;
+}
+
+#matchday-near-round{
+    margin-top: 3px;
+    width:30px;
+    background-color: rgba(2, 41, 82, .65);
+    border-radius: 50px;
+}

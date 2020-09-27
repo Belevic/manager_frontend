@@ -1,0 +1,23 @@
+#forward-training{
+    margin-left: 200px;
+    height: auto;
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#midfielder-training{
+    margin-left: 10px;
+    height: auto;
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#defender-training{
+    margin-left: 10px;
+    height: auto;
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#goalkeaper-training{
+    margin-left: 10px;
+    height: auto;
+    background-color: rgba(2, 41, 82, .65);
+}

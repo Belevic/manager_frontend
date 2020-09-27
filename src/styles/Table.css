@@ -1,0 +1,32 @@
+#results{ 
+    margin-left: 50px; 
+    background-color: rgba(2, 41, 82, .65);
+}
+
+#result-league{
+    counter-reset: rowNumber;
+    margin-top: 10px;
+    border: 3px double #333; 
+    border-collapse: separate;
+    border-spacing: 7px 11px;
+}
+
+#result-league th{
+    text-align: center;
+}
+
+#result-league td{
+    text-align: center;
+}
+
+#result-league tr > td:first-child
+{
+    counter-increment: rowNumber;
+}
+                
+#result-league tr td:first-child::before
+{
+    content: counter(rowNumber);
+    min-width: 1em;
+    margin-right: 0.5em;
+}
